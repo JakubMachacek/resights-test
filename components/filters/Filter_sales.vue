@@ -1,6 +1,6 @@
 <template lang="pug">
   div()
-    h3() Filter emails
+    h3() Filter sales
     br()
     v-row()
       v-col(md="6")
